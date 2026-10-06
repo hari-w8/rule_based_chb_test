@@ -2,8 +2,18 @@ import { useState } from "react";
 import { IoSend } from "react-icons/io5";
 
 function ChatLog() {
+
+
+
+
+
+
+    
   return (
     <>
+    <div className="
+
+    "></div>
     
     {/* typing box----------------------------------- */}
     <div className="
